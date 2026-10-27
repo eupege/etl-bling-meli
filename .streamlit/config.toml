@@ -1,0 +1,9 @@
+# Configurações do app (opcional, mas recomendado)
+[server]
+maxUploadSize = 200          # tamanho máximo de cada arquivo enviado, em MB
+
+[browser]
+gatherUsageStats = false     # não enviar estatísticas de uso
+
+[client]
+toolbarMode = "viewer"       # esconde menus de desenvolvedor para a equipe
