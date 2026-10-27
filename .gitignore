@@ -1,0 +1,16 @@
+# Segredos: NUNCA enviar para o GitHub
+.streamlit/secrets.toml
+secrets.toml
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Arquivos de dados e relatórios (podem conter dados do negócio)
+*.csv
+*.xlsx
+*.xlsm
+.DS_Store
